@@ -6,4 +6,4 @@ This scheme is based on [gutterslob](http://dotshare.it/~gutterslob/)'s [visibon
 
 It was generated from *visibone alt. 2* by using [triads](http://www.tigercolor.com/color-lab/color-theory/color-harmonies.htm) and uniform luminance of the dark and bright groups.
 
-The inspiration for the L*a*b* constraint is [solarized](http://ethanschoonover.com/solarized).
+The inspiration for the L\*a\*b\* constraint is [solarized](http://ethanschoonover.com/solarized).

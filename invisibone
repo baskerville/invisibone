@@ -3,41 +3,43 @@
 !
 ! vim: set ft=xdefaults:
 
-URxvt.background: #232323
-URxvt.foreground: #A0A0A0
+!(235, 248)
+URxvt.background: #262626
+URxvt.foreground: #A8A8A8
 
-URxvt.colorBD:    #CFCFCF
-URxvt.colorUL:    #A0A0A0
-URxvt.colorIT:    #686868
+!(252)
+URxvt.colorBD:    #D0D0D0
+URxvt.colorIT:    #D0D0D0
+URxvt.colorUL:    #D0D0D0
 
-!BLK
+!BLK (236, 243)
 URxvt.color0:     #303030
-URxvt.color8:     #686868
+URxvt.color8:     #767676
+
+!WHT (252, 231)
+URxvt.color7:     #D0D0D0
+URxvt.color15:    #FFFFFF
 
 !RED
-URxvt.color9:     #FFA7DA
 URxvt.color1:     #D370A3
+URxvt.color9:     #FFA7DA
 
 !GRN
-URxvt.color10:    #A3D572
 URxvt.color2:     #6D9E3F
+URxvt.color10:    #A3D572
 
 !BLU
-URxvt.color12:    #98CBFE
 URxvt.color4:     #6095C5
+URxvt.color12:    #98CBFE
 
 !YEL
-URxvt.color11:    #EFBD8B
 URxvt.color3:     #B58858
+URxvt.color11:    #EFBD8B
 
 !CYN
-URxvt.color14:    #75DAA9
 URxvt.color6:     #3BA275
+URxvt.color14:    #75DAA9
 
 !MAG
-URxvt.color13:    #E5B0FF
 URxvt.color5:     #AC7BDE
-
-!WHT
-URxvt.color7:     #CFCFCF
-URxvt.color15:    #FFFFFF
+URxvt.color13:    #E5B0FF

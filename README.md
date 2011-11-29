@@ -1,4 +1,4 @@
-![chart](http://cl.ly/CB1R/invisibone_preview.png)
+![chart](http://f.cl.ly/items/1U0508132Z2Y2p0y3y15/invisibone_preview.png)
 
 ## Origins
 

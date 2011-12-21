@@ -1,4 +1,4 @@
-![preview](http://blobs.ge.tt/4EcnB8B/invisibone_preview.png?sig=-TRiRMr2zSk-uG3mEqjl9J8RIzutZGOz_iA)
+![preview](https://github.com/baskerville/invisibone/raw/master/preview/invisibone_preview.png)
 
 ## Origin
 

@@ -1,4 +1,4 @@
-![preview](http://f.cl.ly/items/1U0508132Z2Y2p0y3y15/invisibone_preview.png)
+![preview](http://blobs.ge.tt/4EcnB8B/invisibone_preview.png?sig=-TRiRMr2zSk-uG3mEqjl9J8RIzutZGOz_iA)
 
 ## Origin
 
